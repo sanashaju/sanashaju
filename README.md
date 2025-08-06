@@ -104,6 +104,15 @@
 ![Docker](https://img.shields.io/badge/Docker-%2396C8EB.svg?style=flat&logo=docker&logoColor=white)
 
 
+### 💻 Design Tools
+
+![Canva](https://img.shields.io/badge/Canva-%2388BDBC.svg?style=flat&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23D77A61.svg?style=flat&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-%2390AFC5.svg?style=flat&logo=framer&logoColor=black)
+![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe_Acrobat_Reader-%23B85C5C.svg?style=flat&logo=adobeacrobatreader&logoColor=white)
+
+
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
@@ -115,7 +124,5 @@
 
 [![](https://visitcountpro.netlify.app/api?id=sanashaju&pretty=true)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+
 

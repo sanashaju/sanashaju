@@ -3,27 +3,24 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=sanashaju&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanashaju&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-![AWS](https://img.shields.io/badge/AWS-%23FFCA28.svg?style=flat&logo=aws&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230080FF.svg?style=flat&logo=digitalocean&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=flat&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 
 
-![AWS](https://img.shields.io/badge/AWS-%23FFF3B0.svg?style=flat&logo=aws&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-%23D9D9D9.svg?style=flat&logo=vercel&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%23CBE8FF.svg?style=flat&logo=digitalocean&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%23D1DDFB.svg?style=flat&logo=githubactions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-%FFF0D0.svg?style=flat&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%23D0E6FA.svg?style=flat&logo=docker&logoColor=white)
 
 
-![AWS](https://img.shields.io/badge/AWS-%23FFE082.svg?style=flat&logo=aws&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-%23BDBDBD.svg?style=flat&logo=vercel&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%2394D3F5.svg?style=flat&logo=digitalocean&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%2393B8F2.svg?style=flat&logo=githubactions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-%FFF1C1.svg?style=flat&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%2396C8EB.svg?style=flat&logo=docker&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%23009999.svg?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23B3442C.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-%235577AA.svg?style=for-the-badge&logo=framer&logoColor=black)
+![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe_Acrobat_Reader-%238B0000.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-%232B7A9C.svg?style=for-the-badge&logo=adobelightroom&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%232B6B88.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-%235A5AAE.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+
+
+![Canva](https://img.shields.io/badge/Canva-%2388BDBC.svg?style=flat&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23D77A61.svg?style=flat&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-%2390AFC5.svg?style=flat&logo=framer&logoColor=black)
+![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe_Acrobat_Reader-%23B85C5C.svg?style=flat&logo=adobeacrobatreader&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-%237CA6B8.svg?style=for-the-badge&logo=adobelightroom&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%23729FCF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-%23948EC3.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
