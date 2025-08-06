@@ -85,6 +85,19 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%23B2C4E0.svg?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFE9A7.svg?style=flat&logo=firebase&logoColor=black)
 
+### 💻 Testing
+
+![Playwright](https://img.shields.io/badge/Playwright-%23B3CCE0.svg?style=flat&logo=playwright&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-%23D6A9D0.svg?style=flat&logo=jasmine&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23E6A3A1.svg?style=flat&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%FFF0E1.svg?style=flat&logo=postman&logoColor=white)
+![Hoppscotch](https://img.shields.io/badge/Hoppscotch-%23A7C8FF.svg?style=flat&logo=hoppscotch&logoColor=white)
+
+
+### 💻 DevOps
+
+
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
