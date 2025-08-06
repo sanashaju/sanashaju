@@ -96,7 +96,12 @@
 
 ### 💻 DevOps
 
-
+![AWS](https://img.shields.io/badge/AWS-%23FFE082.svg?style=flat&logo=aws&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-%23BDBDBD.svg?style=flat&logo=vercel&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%2394D3F5.svg?style=flat&logo=digitalocean&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%2393B8F2.svg?style=flat&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-%FFF1C1.svg?style=flat&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%2396C8EB.svg?style=flat&logo=docker&logoColor=white)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
@@ -107,3 +112,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
+[![](https://visitcountpro.netlify.app/api?id=sanashaju&pretty=true)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
