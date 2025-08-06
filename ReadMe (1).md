@@ -4,7 +4,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanashaju&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
+## 🔗 Links <img src="svgs/logo-javascript.svg" style="height: 45px;" /> <img src="svgs/logo-nodejs.svg" style="height: 45px;" /> <img src="svgs/logo-typescript.svg" style="height: 45px;" /> <img src="images/react.png" style="height: 45px;" />    
 
 
 

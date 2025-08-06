@@ -124,6 +124,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23BEBEBE.svg?style=flat&logo=intellijidea&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/Eclipse-%23CCC2E0.svg?style=flat&logo=eclipse&logoColor=black)
 
+## 🔗 Links <img src="svgs/logo-javascript.svg" style="height: 45px;" /> <img src="svgs/logo-nodejs.svg" style="height: 45px;" /> <img src="svgs/logo-typescript.svg" style="height: 45px;" /> <img src="images/react.png" style="height: 45px;" />    
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
