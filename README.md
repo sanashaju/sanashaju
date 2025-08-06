@@ -1,7 +1,7 @@
 <img src= "./Banner.png" >
 
 # <img src="./animated/hands.gif" height="40"/> ***_Hey , I'm Sana Shaju_***
- <img src="./animated/javascript.gif" height="40" /> <img src="./animated/node.gif" height="40" /> <img src="./svgs/logo-typescript.svg" height="40" /> <img src="./images/react.png" height="40" />
+ <img src="./animated/javascript.gif" height="40" /> <img src="./animated/node.gif" height="40" /> <img src="./svgs/logo-typescript.svg" height="40" /> <img src="./images/react.png" height="40" /> <img src="./images/icons8-next.js-500.png" height="40" />
 
 ## 🔗 Links
 
