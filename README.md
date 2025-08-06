@@ -12,6 +12,12 @@
 
 ![jokes card](https://readme-jokes.vercel.app/api)
 
+## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanashaju&show_icons=true&theme=radical)
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=abdulvahabaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 
 
 
