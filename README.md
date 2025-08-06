@@ -111,7 +111,18 @@
 ![Framer](https://img.shields.io/badge/Framer-%2390AFC5.svg?style=flat&logo=framer&logoColor=black)
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe_Acrobat_Reader-%23B85C5C.svg?style=flat&logo=adobeacrobatreader&logoColor=white)
 
+### 💻 Development Tools
 
+![GIT](https://img.shields.io/badge/git-%23D8A49C.svg?style=flat&logo=git&logoColor=black)
+![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-%23C1C1C1.svg?style=flat&logo=github&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-%23ADCBE3.svg?style=flat&logo=jira&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-%23B8D8E3.svg?style=flat&logo=visualstudiocode&logoColor=black)
+![npm](https://img.shields.io/badge/npm-%23E7A9A9.svg?style=flat&logo=npm&logoColor=black)
+![Yarn](https://img.shields.io/badge/Yarn-%23B5D2D9.svg?style=flat&logo=yarn&logoColor=black)
+![GitLab](https://img.shields.io/badge/GitLab-%23F8D9A0.svg?style=flat&logo=gitlab&logoColor=black)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23FFD59E.svg?style=flat&logo=sublimetext&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23BEBEBE.svg?style=flat&logo=intellijidea&logoColor=black)
+![Eclipse](https://img.shields.io/badge/Eclipse-%23CCC2E0.svg?style=flat&logo=eclipse&logoColor=black)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
