@@ -21,7 +21,6 @@
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanashaju&theme=github-compact)
 
-<!-- ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulvahabaa&theme=github-compact)-->
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=sanashaju&theme=discord)
 
