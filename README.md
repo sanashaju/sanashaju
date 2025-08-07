@@ -125,7 +125,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23BEBEBE.svg?style=flat&logo=intellijidea&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/Eclipse-%23CCC2E0.svg?style=flat&logo=eclipse&logoColor=black)
 
-## 🔗 Links <img src="svgs/logo-javascript.svg" style="height: 45px;" /> <img src="svgs/logo-nodejs.svg" style="height: 45px;" /> <img src="svgs/logo-typescript.svg" style="height: 45px;" /> <img src="images/react.png" style="height: 45px;" />    
+## 🔗 Links <img src="svgs/logo-javascript.svg" style="height: 45px;" /> <img src="svgs/logo-nodejs.svg" style="height: 45px;" /> <img src="svgs/logo-typescript.svg" style="height: 45px;" /> <img src="images/react.png" style="height: 45px;" /> <img src="./images/icons8-next.js-500.png" height="45" width="45" />   
 
 [![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1oT14O3b8MF8dM-HOF4PlnMeZJNElZU6a/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:sanashajuillikkal@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+7736709420) 
 
