@@ -13,8 +13,6 @@
 
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanashaju&show_icons=true&theme=midnight-purple)
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanashaju&theme=jolly" width="32.5%">
 <!-- ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=sanashaju&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
