@@ -14,15 +14,14 @@
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanashaju&theme=jolly" width="32.5%">
+
 <!-- ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=sanashaju&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sanashaju&theme=dark&background=340D43E3&border=A3318FED)](https://git.io/streak-stats)
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanashaju&layout=compact&theme=midnight-purple)
 
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanashaju&theme=github-compact)
-
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/midnight_purple/0-profile-details.svg">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanashaju&theme=jolly" >
 
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=sanashaju&theme=discord)

@@ -29,3 +29,10 @@
 <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/midnight_purple/0-profile-details.svg">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanashaju&theme=jolly" width="32.5%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adhilunnikrishnan&theme=solarized&exclude={exclude}" width="32.5%">
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adhilunnikrishnan&theme=midnight-purple&border_color=A3318F" >
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanashaju&theme=jolly" >
+
