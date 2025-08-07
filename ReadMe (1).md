@@ -11,3 +11,21 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sanashaju&theme=dark&background=1A0026)](https://git.io/streak-stats)
+
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanashaju&layout=compact&theme=nblue-gree)
+
+
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sanashaju&theme=dark&background=340D43E3&border=A3318FED)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanashaju&show_icons=true&theme=midnight-purple&border_color=A3318F)
+
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/midnight_purple/0-profile-details.svg">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanashaju&theme=jolly" width="32.5%">
