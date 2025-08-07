@@ -16,8 +16,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanashaju&theme=jolly" width="32.5%">
 
 <!-- ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=sanashaju&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sanashaju&theme=dark&background=340D43E3&border=A3318FED)](https://git.io/streak-stats)
+<!-- 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sanashaju&theme=dark&background=340D43E3&border=A3318FED)](https://git.io/streak-stats) -->
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanashaju&layout=compact&theme=midnight-purple)
 
