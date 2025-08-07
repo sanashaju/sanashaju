@@ -7,6 +7,7 @@
 ## 🔗 Links <img src="svgs/logo-javascript.svg" style="height: 45px;" /> <img src="svgs/logo-nodejs.svg" style="height: 45px;" /> <img src="svgs/logo-typescript.svg" style="height: 45px;" /> <img src="images/react.png" style="height: 45px;" />    
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanashaju&show_icons=true&theme=midnight-purple)
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=sanashaju&theme=dark&background=1A0026)](https://git.io/streak-stats)

@@ -12,7 +12,7 @@
 
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanashaju&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanashaju&show_icons=true&theme=midnight-purple)
 <!-- ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=sanashaju&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sanashaju&theme=dark&background=1A0026)](https://git.io/streak-stats)
