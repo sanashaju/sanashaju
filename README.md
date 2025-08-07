@@ -1,31 +1,38 @@
 <img src= "./Banner.png" >
 
-# <img src="./animated/hands.gif" height="40"/> ***_Hey , I'm Sana Shaju_***
- <img src="./animated/javascript.gif" height="40" /> <img src="./animated/node.gif" height="40" /> <img src="./svgs/logo-typescript.svg" height="40" /> <img src="./images/react.png" height="40" /> <img src="./images/icons8-next.js-500.png" height="45" width="45" />
+# <img src="./animated/hands.gif" height="40"/> **_*Hey , I'm Sana Shaju*_**
+
+<img src="./animated/javascript.gif" height="40" /> <img src="./animated/node.gif" height="40" /> <img src="./svgs/logo-typescript.svg" height="40" /> <img src="./images/react.png" height="40" /> <img src="./images/icons8-next.js-500.png" height="45" width="45" />
 
 ## 🔗 Links
 
-[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1oT14O3b8MF8dM-HOF4PlnMeZJNElZU6a/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:sanashajuillikkal@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+7736709420) 
+[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1oT14O3b8MF8dM-HOF4PlnMeZJNElZU6a/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:sanashajuillikkal@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+7736709420)
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-
 
 ![jokes card](https://readme-jokes.vercel.app/api)
 
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
 
+<div  >
+<a  href="https://github.com/sanashaju">
+<div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanashaju&theme=jolly" width="32.5%">
-
-<!-- ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=sanashaju&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
-<!-- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sanashaju&theme=dark&background=340D43E3&border=A3318FED)](https://git.io/streak-stats) -->
-
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanashaju&layout=compact&theme=midnight-purple)
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanashaju&theme=jolly&exclude={exclude}" width="32.5%" >
+</div>
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanashaju&theme=jolly&exclude={exclude}" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanashaju&theme=jolly&utcOffset=+5" width="32.5%" >
+</div>
+</a>
+<!-- <details> -->
+  <!-- <summary>More stats</summary> -->
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanashaju&theme=jolly" >
+<!-- </details> -->
+</div>
 
+# 🏆 GitHub Trophies
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=sanashaju&theme=discord)
-
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=sanashaju&theme=nord&column=7)
 
 # 🛠️ Tech Stack Skills
 
@@ -97,7 +104,6 @@
 ![Postman](https://img.shields.io/badge/Postman-%FFF0E1.svg?style=flat&logo=postman&logoColor=white)
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-%23A7C8FF.svg?style=flat&logo=hoppscotch&logoColor=white)
 
-
 ### 💻 DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-%23FFE082.svg?style=flat&logo=aws&logoColor=black)
@@ -106,7 +112,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%2393B8F2.svg?style=flat&logo=githubactions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-%FFF1C1.svg?style=flat&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%2396C8EB.svg?style=flat&logo=docker&logoColor=white)
-
 
 ### 💻 Design Tools
 
@@ -128,9 +133,9 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23BEBEBE.svg?style=flat&logo=intellijidea&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/Eclipse-%23CCC2E0.svg?style=flat&logo=eclipse&logoColor=black)
 
-## 🔗 Links <img src="svgs/logo-javascript.svg" style="height: 45px;" /> <img src="svgs/logo-nodejs.svg" style="height: 45px;" /> <img src="svgs/logo-typescript.svg" style="height: 45px;" /> <img src="images/react.png" style="height: 45px;" /> <img src="./images/icons8-next.js-500.png" height="45" width="45" />   
+## 🔗 Links <img src="svgs/logo-javascript.svg" style="height: 45px;" /> <img src="svgs/logo-nodejs.svg" style="height: 45px;" /> <img src="svgs/logo-typescript.svg" style="height: 45px;" /> <img src="images/react.png" style="height: 45px;" /> <img src="./images/icons8-next.js-500.png" height="45" width="45" />
 
-[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1oT14O3b8MF8dM-HOF4PlnMeZJNElZU6a/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:sanashajuillikkal@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+7736709420) 
+[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1oT14O3b8MF8dM-HOF4PlnMeZJNElZU6a/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:sanashajuillikkal@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+7736709420)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
@@ -142,6 +147,3 @@
 </p>
 
 [![](https://visitcountpro.netlify.app/api?id=sanashaju&pretty=true)](https://visitcount.itsvg.in)
-
-
-
