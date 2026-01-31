@@ -1,5 +1,3 @@
-<img src= "./Banner.png" >
-
 <div align="center">
   
 <h1 align="center"><i>Hi there, I'm</i> <a href="https://github.com/sanashaju">Sana Shaju</a> <img src="animated/hands.gif" height="40" />
