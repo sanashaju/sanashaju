@@ -1,6 +1,6 @@
 <div align="center">
   
-<h1 align="center"><i>Hi there, I'm</i> <a href="https://www.sanashaju.in">Sana Shaju</a> <img src="animated/unicorn.gif" height="40" />
+<h1 align="center"><i>Hi there, I'm</i> <a href="https://www.sanaillikkal.in">Sana Shaju</a> <img src="animated/unicorn.gif" height="40" />
 </h1>
 
 ### 💻 Full-Stack Developer | 🚀 Software Engineer | 👩🏻‍💻 Freelance Developer
